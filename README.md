@@ -22,7 +22,7 @@ I specialize in building and deploying practical AI systems and scalable cloud i
 
 | Project | Description | Technologies Used |
 | :--- | :--- | :--- |
-| **Crypto Trading & AI Risk Bot** 🔒 | A 24/7 OKX futures bot yielding +33.7% return with an EMA/ATR execution engine, LLM-powered risk briefings, and FinBERT sentiment-based trade veto. *(Private repo)* | `Python`, `OKX API`, `GCP`, `FinBERT`, `LLMs`, `Telegram API` |
+| **[Crypto Trading & AI Risk Bot](https://github.com/Mrxxxx-1/crypto-trade-bot)** | A 24/7 HL futures bot yielding +33.7% return with an EMA/ATR execution engine, LLM-powered risk briefings, and FinBERT sentiment-based trade veto. | `Python`, `HL SDK`, `GCP`, `FinBERT`, `LLMs`, `Telegram API` |
 | **[Distributed Dictionary](https://github.com/Mrxxxx-1/distributed-dictionary)** | Designed a distributed system with fault tolerance and leader election, implementing the Raft consensus protocol to achieve 99.5% uptime. | `Python`, `Raft`, `Distributed Systems` |
 | **[Hydra Social App](https://github.com/scalableinternetservicesarchive/Hydra)** | Scalable social app on AWS, load-tested to support 2,100+ concurrent users. Slashed query load time by 90% by fixing N+1 issues. | `Ruby on Rails`, `Docker`, `AWS`, `PostgreSQL` |
 | **[Straight or Bust](https://csci-526.github.io/main-skill-limited-1/Game/)** | A Unity-based roguelike dice game. Architected a reusable C# cooldown system and implemented end-to-end Unity Analytics. | `C#`, `Unity`, `Unity Analytics` |
